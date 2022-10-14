@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\CodeFifteen\CodeFifteen\bin\Debug\net5.0\CodeFifteen.exe
+C:\Users\PC\source\repos\CodeFifteen\CodeFifteen\bin\Debug\net5.0\CodeFifteen.deps.json
+C:\Users\PC\source\repos\CodeFifteen\CodeFifteen\bin\Debug\net5.0\CodeFifteen.runtimeconfig.json
+C:\Users\PC\source\repos\CodeFifteen\CodeFifteen\bin\Debug\net5.0\CodeFifteen.runtimeconfig.dev.json
+C:\Users\PC\source\repos\CodeFifteen\CodeFifteen\bin\Debug\net5.0\CodeFifteen.dll
+C:\Users\PC\source\repos\CodeFifteen\CodeFifteen\bin\Debug\net5.0\ref\CodeFifteen.dll
+C:\Users\PC\source\repos\CodeFifteen\CodeFifteen\bin\Debug\net5.0\CodeFifteen.pdb
+C:\Users\PC\source\repos\CodeFifteen\CodeFifteen\obj\Debug\net5.0\CodeFifteen.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\CodeFifteen\CodeFifteen\obj\Debug\net5.0\CodeFifteen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\CodeFifteen\CodeFifteen\obj\Debug\net5.0\CodeFifteen.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\CodeFifteen\CodeFifteen\obj\Debug\net5.0\CodeFifteen.AssemblyInfo.cs
+C:\Users\PC\source\repos\CodeFifteen\CodeFifteen\obj\Debug\net5.0\CodeFifteen.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CodeFifteen\CodeFifteen\obj\Debug\net5.0\CodeFifteen.dll
+C:\Users\PC\source\repos\CodeFifteen\CodeFifteen\obj\Debug\net5.0\ref\CodeFifteen.dll
+C:\Users\PC\source\repos\CodeFifteen\CodeFifteen\obj\Debug\net5.0\CodeFifteen.pdb
+C:\Users\PC\source\repos\CodeFifteen\CodeFifteen\obj\Debug\net5.0\CodeFifteen.genruntimeconfig.cache
